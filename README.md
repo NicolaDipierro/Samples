@@ -1,1 +1,1 @@
-# Samples
+# Repository with sample codes.
